@@ -13,11 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: frsrgrrw homepage
 email: fg28@hw.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  .
-twitter_username: frsrgrrw
+  Fraser Garrow is a PhD student in Robotics and Autonmous at Edinburgh Centre for
+  Robotics (Heriot-Watt University and University of Edinburgh). They are mostly 
+  interested in genetic programming and machine learning. They are particularly 
+  intesrested in representation and how the properties of functional programming 
+  languages can be used to enhance the GP search.
 github_username: frsrggrw
 minimal_mistakes_skin: sunrise
 search: true
@@ -58,7 +61,13 @@ plugins:
 author:
   name   : "Fraser Garrow"
   avatar : "https://avatars.githubusercontent.com/u/55896807?v=4"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm Fraser, hi. I'm a Robotics PhD student in Edinburgh. 
+            I'm mostly interested in genetic programming and 
+            improvement and how the propeties of functional programming
+            languages can be used to improve the evolutionary search. 
+            More boradly I'm interested in machine learning and robotics. 
+            Even more broadly, I'm interested in sports, pizza and good 
+            beer/wine (I don't discriminate)."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
