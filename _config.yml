@@ -61,12 +61,12 @@ plugins:
 author:
   name   : "Fraser Garrow"
   avatar : "https://avatars.githubusercontent.com/u/55896807?v=4"
-  bio    : "I'm Fraser, hi. I'm a Robotics PhD student in Edinburgh. 
-            I'm mostly interested in genetic programming and 
-            improvement and how the propeties of functional programming
-            languages can be used to improve the evolutionary search. 
-            More boradly I'm interested in machine learning and robotics. 
-            Even more broadly, I'm interested in sports, pizza and good 
+  bio    : "Hi. I'm a Robotics PhD student in Edinburgh. I'm mostly 
+            interested in genetic programming and improvement and how 
+            the propeties of functional programming languages can be 
+            used to improve the evolutionary search. More boradly I'm 
+            interested in machine learning and robotics. Even more 
+            broadly, I'm interested in sports, pizza and good 
             beer/wine (I don't discriminate)."
   links:
     - label: "Website"
