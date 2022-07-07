@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Fraser Garrow"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/55896807?v=4"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
